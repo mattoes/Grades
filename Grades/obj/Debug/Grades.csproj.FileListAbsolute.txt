@@ -1,1 +1,6 @@
 C:\Git\Grades\Grades\bin\Debug\Grades.exe.config
+C:\Git\Grades\Grades\bin\Debug\Grades.exe
+C:\Git\Grades\Grades\bin\Debug\Grades.pdb
+C:\Git\Grades\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
+C:\Git\Grades\Grades\obj\Debug\Grades.exe
+C:\Git\Grades\Grades\obj\Debug\Grades.pdb
